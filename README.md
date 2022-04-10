@@ -32,9 +32,8 @@ Technologies that I use <img width="25px" src="https://media0.giphy.com/media/f3
 My Git-stats <img width="25px" src="https://media2.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif?cid=ecf05e470nxx1dojri5r6r1dzwav0ndes5qey10cpztzeoul&rid=giphy.gif&ct=s">
 </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&bg_color=d8dbde&title_color=1d283a&text_color=1d283a&border_color=445c80l&layout=compact">
+<p align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&bg_color=d8dbde&title_color=1d283a&text_color=1d283a&border_color=445c80l&layout=compact">
 </p>
 
 <p align="center">
