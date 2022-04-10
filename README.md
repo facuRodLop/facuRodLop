@@ -42,8 +42,8 @@ My Git-stats <img width="25px" src="https://media2.giphy.com/media/PmdWKodlTy9dK
 </h2>
 
 <p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&bg_color=d8dbde&title_color=1d283a&text_color=1d283a&border_color=445c80l&layout=compact" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&bg_color=d8dbde&title_color=1d283a&text_color=1d283a&border_color=445c80l&layout=compact" width="38%">
 </p>
 
 <p align="center">
