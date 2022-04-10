@@ -4,15 +4,15 @@
 
 <p align="center">
 
-[![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facuRodLop&theme=radical&iconsShow=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facuRodLop&theme=radical&iconsShow=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
-<p align="center">
+<p align="center"></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facuRodLop&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facuRodLop&date_format=M%20j%5B%2C%20Y%5D&background=D8DBDE&ring=9DB1C2&fire=445C80&currStreakNum=1D283A&sideNums=1D383A&currStreakLabel=1D283A&sideLabels=1D383A&dates=323B60&stroke=445C80&border=445C80)](https://git.io/streak-stats)
 
 <!--
 **facuRodLop/facuRodLop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
