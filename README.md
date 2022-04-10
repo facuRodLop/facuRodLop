@@ -4,9 +4,7 @@
 
 <p align="center">
 
-[![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&show_icons=true&bg_color=d8dbde&title_color=1d283a&text_color=445c80&icon_color=6c89a4&border_color=445c80l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
