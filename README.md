@@ -4,7 +4,7 @@
 
 [![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facuRodLop&theme=radical&iconsShow=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuRodLop&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facuRodLop&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facuRodLop&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 <!--
 **facuRodLop/facuRodLop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
