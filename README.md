@@ -7,7 +7,7 @@ About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5s
 </h2>
 
 - 👨‍💻 I'm a 23 years old guy passionate about programming.
-- 🔭 Currently find work.
+- 🔭 Currently looking for a job opportunity.
 - 🌱 Constantly learning.
 
 <br/>
