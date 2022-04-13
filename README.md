@@ -5,11 +5,11 @@
 <h2 align="center" style="color:#d8dbde">
 About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif?cid=790b761171e570c819116977d3fc2c10342568bf4395f0bd&rid=giphy.gif&ct=s">
 </h2>
-<p align="center" width="50%">
-<p align="">👨‍💻 I'm a 23 years old guy passionate about programming.</p>
-<p align="">🔭 Currently looking for a job opportunity.</p>
-<p align="">🌱 Constantly learning.</p>
-</p>
+
+- 👨‍💻 I'm a 23 years old guy passionate about programming.
+- 🔭 Currently looking for a job opportunity.
+- 🌱 Constantly learning.
+
 
 <br/>
 
