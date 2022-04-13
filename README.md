@@ -34,8 +34,8 @@ Contact <img width="35px" src="https://media3.giphy.com/media/1k12PxRRQipaPdYWPl
 
 <p align="center">E-Mail: <a href="mailto:facundo.rod99@gmail.com">facundo.rod99@gmail.com</a></p> 
 
-- 
-- LinkedIn : [Facundo Rodríguez](https://www.linkedin.com/in/facundo-rodriguez-03a307226/)
+<p align="center">LinkedIn: <a href="https://www.linkedin.com/in/facundo-rodriguez-03a307226/">Facundo Rodríguez</a></p> 
+
 
 <br/>
 
