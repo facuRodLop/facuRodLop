@@ -33,6 +33,7 @@ Contact <img width="35px" src="https://media3.giphy.com/media/1k12PxRRQipaPdYWPl
 </h2>
 
 <p align="center"></p> 
+
 - E-Mail: facundo.rod99@gmail.com
 - LinkedIn : [Facundo Rodríguez](https://www.linkedin.com/in/facundo-rodriguez-03a307226/)
 
