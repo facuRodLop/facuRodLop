@@ -10,7 +10,6 @@ About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5s
 - 🔭 Currently looking for a job opportunity.
 - 🌱 Constantly learning.
 
-
 <br/>
 
 <h2 align="center" style="color:#d8dbde"> 
@@ -18,13 +17,15 @@ Technologies that I use <img width="25px" src="https://media0.giphy.com/media/f3
 </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=black&color=61dbfb"> 
+<img src="https://img.shields.io/badge/React.js-informational?style=for-the-badge&logo=react&logoColor=black&color=61dbfb"> 
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=f0db4f"> 
-<img src="https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=6ba063"> 
+<img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=6ba063"> 
 <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00758f"> 
 <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=3fa037"> 
 <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=f06529"> 
 <img src="https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2965f1"> 
+<img src="https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=606060"> 
+<img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=42b883"> 
 </p>
 
 <br/>
@@ -33,10 +34,9 @@ Technologies that I use <img width="25px" src="https://media0.giphy.com/media/f3
 Contact <img width="35px" src="https://media3.giphy.com/media/1k12PxRRQipaPdYWPl/giphy.gif?cid=ecf05e479l1twgbp29w16lhzmged1tpom8neow7uw3fortrh&rid=giphy.gif&ct=s">
 </h2>
 
-<p align="center">E-Mail: <a href="mailto:facundo.rod99@gmail.com">facundo.rod99@gmail.com</a></p> 
+<p align="center">E-Mail: <a href="mailto:facundo.rod99@gmail.com">facundo.rod99@gmail.com</a></p>
 
-<p align="center">LinkedIn: <a href="https://www.linkedin.com/in/facundo-rodriguez-03a307226/">Facundo Rodríguez</a></p> 
-
+<p align="center">LinkedIn: <a href="https://www.linkedin.com/in/facundo-rodriguez-03a307226/">Facundo Rodríguez</a></p>
 
 <br/>
 
