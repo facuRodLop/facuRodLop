@@ -32,7 +32,7 @@ Technologies that I use <img width="25px" src="https://media0.giphy.com/media/f3
 Contact <img width="35px" src="https://media3.giphy.com/media/1k12PxRRQipaPdYWPl/giphy.gif?cid=ecf05e479l1twgbp29w16lhzmged1tpom8neow7uw3fortrh&rid=giphy.gif&ct=s">
 </h2>
 
-- E-Mail: facundo.rod99@gmail.com
+<p align="center">E-Mail: facundo.rod99@gmail.com</p> 
 - LinkedIn : [Facundo Rodríguez](https://www.linkedin.com/in/facundo-rodriguez-03a307226/)
 
 <br/>
