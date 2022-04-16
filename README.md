@@ -10,7 +10,7 @@ About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5s
 - 🔭 Currently looking for a job opportunity.
 - 🌱 Constantly learning.
 
-<br/>
+
 
 <h2 align="center" style="color:#d8dbde"> 
 Technologies that I use <img width="25px" src="https://media0.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.gif?cid=ecf05e47mg39cyj99yu2c1ofclfwo1wd0z64ns593z16p78j&rid=giphy.gif&ct=s">
