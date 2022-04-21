@@ -1,6 +1,6 @@
 <a href="https://facurodlop.github.io"><img width="100%" src="./images/banner-readme.png" alt="Banner"></a>
 
-
+<br/>
 
 <h2 align="center" style="color:#d8dbde">
 About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif?cid=790b761171e570c819116977d3fc2c10342568bf4395f0bd&rid=giphy.gif&ct=s">
