@@ -3,7 +3,8 @@
 <br/>
 
 <h2 align="center" style="color:#d8dbde">
-About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif?cid=790b761171e570c819116977d3fc2c10342568bf4395f0bd&rid=giphy.gif&ct=s">
+About me 
+  <!-- <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif?cid=790b761171e570c819116977d3fc2c10342568bf4395f0bd&rid=giphy.gif&ct=s">  -->
 </h2>
 
 - 👨‍💻 I'm a 23 years old guy passionate about programming.
@@ -13,7 +14,8 @@ About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5s
 <br/>
 
 <h2 align="center" style="color:#d8dbde"> 
-Technologies that I use <img width="25px" src="https://media0.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.gif?cid=ecf05e47mg39cyj99yu2c1ofclfwo1wd0z64ns593z16p78j&rid=giphy.gif&ct=s">
+Technologies that I use 
+  <!-- <img width="25px" src="https://media0.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.gif?cid=ecf05e47mg39cyj99yu2c1ofclfwo1wd0z64ns593z16p78j&rid=giphy.gif&ct=s">   -->
 </h2>
 
 <p align="center">
@@ -31,7 +33,7 @@ Technologies that I use <img width="25px" src="https://media0.giphy.com/media/f3
 <br/>
 
 <h2 align="center" style="color:#d8dbde"> 
-Contact <img width="35px" src="https://media3.giphy.com/media/1k12PxRRQipaPdYWPl/giphy.gif?cid=ecf05e479l1twgbp29w16lhzmged1tpom8neow7uw3fortrh&rid=giphy.gif&ct=s">
+Contact <!--<img width="35px" src="https://media3.giphy.com/media/1k12PxRRQipaPdYWPl/giphy.gif?cid=ecf05e479l1twgbp29w16lhzmged1tpom8neow7uw3fortrh&rid=giphy.gif&ct=s"> -->
 </h2>
 
 <p align="center">E-Mail: <a href="mailto:facundo.rod99@gmail.com">facundo.rod99@gmail.com</a></p>
@@ -41,7 +43,7 @@ Contact <img width="35px" src="https://media3.giphy.com/media/1k12PxRRQipaPdYWPl
 <br/>
 
 <h2 align="center" style="color:#d8dbde"> 
-My Git-stats <img width="25px" src="https://media2.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif?cid=ecf05e470nxx1dojri5r6r1dzwav0ndes5qey10cpztzeoul&rid=giphy.gif&ct=s">
+My Git-stats <!--<img width="25px" src="https://media2.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif?cid=ecf05e470nxx1dojri5r6r1dzwav0ndes5qey10cpztzeoul&rid=giphy.gif&ct=s">-->
 </h2>
 
 <p align="center" width="100%">
