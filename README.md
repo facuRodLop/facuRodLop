@@ -3,7 +3,7 @@
 <br/>
 
 <h2 align="center" style="color:#d8dbde">
-About me <img width="5px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif?cid=790b761171e570c819116977d3fc2c10342568bf4395f0bd&rid=giphy.gif&ct=s">
+About me <img width="30px" src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif?cid=790b761171e570c819116977d3fc2c10342568bf4395f0bd&rid=giphy.gif&ct=s">
 </h2>
 
 - 👨‍💻 I'm a 23 years old guy passionate about programming.
